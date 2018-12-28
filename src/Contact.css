@@ -1,0 +1,63 @@
+.Content {
+    margin: auto;
+    width: 50%;
+    padding:15px;
+    text-transform: capitalize;
+  }
+
+
+button {
+    font-size: 40px;
+    background-color: transparent;
+    border: none;
+    position: relative;
+    top: -92px;
+    left: 13px;
+    
+
+}
+
+button { cursor: pointer; }
+span {
+    display: inline-block;
+    font-size: 15px;
+}
+
+button:focus {outline:0;}
+
+
+.image {
+    width: auto;
+    height: 200px;
+    background-color: rgba(119, 190, 42, 0.767);
+    margin-top: -154px;
+}
+
+#con {
+    position: relative;
+    border-radius:80px;
+    top: 36px;
+    left: 188px;
+    width: 164px;
+    height: 161px;
+}
+#email {
+    text-transform: lowercase;
+}
+span {
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.info {
+    padding: 0;
+    padding-top: 0px;
+}
+
+.info li {
+    list-style: none;
+    padding: 20px;
+    border-bottom: 2px solid lightgrey;
+    
+} 
